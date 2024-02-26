@@ -9,8 +9,7 @@
 
 ###
 
-<img style="float:right; height:150px; border-radius:4rem;" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
-
+<img align="right" height="150" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
 ###
 
 <div align="left">
