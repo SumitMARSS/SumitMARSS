@@ -48,8 +48,6 @@
 
 
 
-[![LeetCode Profile](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcode.com/SumitMARSS/)
-
 
 
 
