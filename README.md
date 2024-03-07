@@ -1,3 +1,5 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SumitMARSS/SumitMARSS/assets/112120780/36e36b99-0b1d-4bdc-a0d0-4ac43522e594)
+
 <h2 align="left">Hi 👋! My name is Sumit Kumar and I'm a MERN STACK Developer</h2>
 
 ###
