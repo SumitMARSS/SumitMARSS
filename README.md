@@ -1,4 +1,8 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/SumitMARSS/SumitMARSS/assets/112120780/36e36b99-0b1d-4bdc-a0d0-4ac43522e594)
+<img width="1584" height="396" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/2fa1e680-c254-4dda-9bae-ce9a9380d34d" />
+
+
+
+
 
 <h2 align="left">Hi 👋! My name is Sumit Kumar and I'm a MERN STACK Developer</h2>
 
