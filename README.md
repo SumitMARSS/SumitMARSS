@@ -4,7 +4,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Sumit Kumar and I'm a MERN STACK Developer</h2>
+<h2 align="left">Hi 👋! My name is Sumit Kumar and I'm a Software Developer</h2>
 
 ###
 
